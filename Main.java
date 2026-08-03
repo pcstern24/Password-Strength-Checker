@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 /** Main class for Password Strength Checker 
-  * Prompts the user for a password and starts analysis */
-
+  * Prompts the user for a password and starts analysis 
+  */
 public class Main {
 
     public static void main(String[] args) {
